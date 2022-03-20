@@ -24,8 +24,8 @@ numero_2 = 9
 # Repita el procedimiento para realizar la resta
 suma= numero_1 + numero_2
 
-print ("el resultado de la suma es",suma)
+print ("el resultado de la suma de",numero_1,"es",numero_2,"es",suma)
 
 resta= numero_1 - numero_2
 
-print ("el resultado de la resta es ", resta)
+print ("el resultado de la resta de",numero_1,"y",numero_2,"es", resta)
