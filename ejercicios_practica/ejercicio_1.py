@@ -22,10 +22,17 @@ numero_2 = 9
 # print(....)
 
 # Repita el procedimiento para realizar la resta
+
+
 suma= numero_1 + numero_2
 
-print (suma)
+print ("el resultado es", suma)
 
-resta= numero_1 - numero_2
+print ("el resultado de sumar ", numero_1, "y" ,numero_2, "es", suma)
 
-print (resta)
+
+resta = numero_1-numero_2
+
+print ("el resultado de resta es", resta)
+
+print("el resultado de restar ", numero_1, "y", numero_2," es", resta)
